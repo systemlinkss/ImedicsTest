@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "NnnWY0a/kqvmW4MgMUZJXCaux2Ut7D6A4N8YQHlhQ55DKiCM46Edcpya+4jH3//Oirk3Rr7kxOhyWQ+qFDgi/g==",
+  "success": true,
+  "projectFilePath": "D:\\FDesignUK\\ImedicsNetCore\\ImedicsWeb\\ui-admin\\ui-admin\\ui-admin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rahmat TechSquad-LHR\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\3.1.9\\microsoft.aspnetcore.nodeservices.3.1.9.nupkg.sha512",
+    "C:\\Users\\Rahmat TechSquad-LHR\\.nuget\\packages\\microsoft.aspnetcore.spaservices\\3.1.9\\microsoft.aspnetcore.spaservices.3.1.9.nupkg.sha512",
+    "C:\\Users\\Rahmat TechSquad-LHR\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\3.1.9\\microsoft.aspnetcore.spaservices.extensions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Rahmat TechSquad-LHR\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.9\\microsoft.extensions.configuration.3.1.9.nupkg.sha512",
+    "C:\\Users\\Rahmat TechSquad-LHR\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.9\\microsoft.extensions.configuration.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Rahmat TechSquad-LHR\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.9\\microsoft.extensions.configuration.binder.3.1.9.nupkg.sha512",
+    "C:\\Users\\Rahmat TechSquad-LHR\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.9\\microsoft.extensions.dependencyinjection.3.1.9.nupkg.sha512",
+    "C:\\Users\\Rahmat TechSquad-LHR\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Rahmat TechSquad-LHR\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.9\\microsoft.extensions.fileproviders.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Rahmat TechSquad-LHR\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.9\\microsoft.extensions.fileproviders.physical.3.1.9.nupkg.sha512",
+    "C:\\Users\\Rahmat TechSquad-LHR\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.9\\microsoft.extensions.filesystemglobbing.3.1.9.nupkg.sha512",
+    "C:\\Users\\Rahmat TechSquad-LHR\\.nuget\\packages\\microsoft.extensions.logging\\3.1.9\\microsoft.extensions.logging.3.1.9.nupkg.sha512",
+    "C:\\Users\\Rahmat TechSquad-LHR\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Rahmat TechSquad-LHR\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.9\\microsoft.extensions.logging.configuration.3.1.9.nupkg.sha512",
+    "C:\\Users\\Rahmat TechSquad-LHR\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.9\\microsoft.extensions.logging.console.3.1.9.nupkg.sha512",
+    "C:\\Users\\Rahmat TechSquad-LHR\\.nuget\\packages\\microsoft.extensions.options\\3.1.9\\microsoft.extensions.options.3.1.9.nupkg.sha512",
+    "C:\\Users\\Rahmat TechSquad-LHR\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.9\\microsoft.extensions.options.configurationextensions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Rahmat TechSquad-LHR\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512",
+    "C:\\Users\\Rahmat TechSquad-LHR\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
