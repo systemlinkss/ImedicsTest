@@ -6,7 +6,7 @@ import Vue from 'vue'
 import axios from 'axios';
 Vue.prototype.$http = axios;
 
-const API_URL = 'https://localhost:44382/'
+const API_URL = 'https://imedics-api-identity.azurewebsites.ne'
 const LOGIN_URL = API_URL + 'v1/user/authenticate'
 const SIGNUP_URL = API_URL + 'users/'
 
